@@ -111,4 +111,4 @@ export let fleet = [
         "miles": 1488,
         "latLong": "31.766257, 87.116735"
     }
-]
+];
